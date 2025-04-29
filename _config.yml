@@ -1,0 +1,14 @@
+# Site settings
+title: My Personal Site
+description: Welcome to my personal site!
+url: https://egoodrow6.github.io/personal
+theme: jekyll-theme-dinky
+
+# Optional social media links
+github_username: egoodrow6
+twitter_username: your_twitter_handle  # Replace with your Twitter username (or remove this line if not needed)
+
+# Optional navigation settings
+header_pages:
+  - index.md
+  - about.md  # Add this if you create an "About" page
